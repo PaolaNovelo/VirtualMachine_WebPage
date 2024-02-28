@@ -1,3 +1,4 @@
+# !/usr/bin/bash
 sudo systemctl stop nginx
 cd var/www/html/MachineLearning_WebPage
 git pull
