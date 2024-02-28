@@ -7,4 +7,4 @@ git pull
 
 sudo systemctl start nginx
 
-ngrok http 192.168.109.255
+ngrok http 192.168.109.105
