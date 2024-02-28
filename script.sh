@@ -1,7 +1,7 @@
 # !/usr/bin/bash
 sudo systemctl stop nginx
 
-cd var/www/html/MachineLearning_WebPage
+cd var/www/html/VirtualMachine_WebPage
 
 git pull
 
